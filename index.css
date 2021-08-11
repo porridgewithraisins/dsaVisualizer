@@ -1,0 +1,9 @@
+canvas {
+    background: #81A1C1;
+}
+html, body {
+    margin : 0;
+    overflow: hidden;
+    width : 100%;
+    height : 100%;
+}
